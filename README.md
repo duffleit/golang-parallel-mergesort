@@ -1,2 +1,5 @@
 # golang-parallel-mergesort
-parallel mergesort written in go
+  
+Parallel MergeSort written in GO with configurable threshold.
+
+
